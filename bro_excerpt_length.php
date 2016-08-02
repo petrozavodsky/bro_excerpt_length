@@ -3,7 +3,7 @@
 Plugin Name: Bro Excerpt Length
 Plugin URI: http://alkoweb.ru/
 Author: Petrozavodsky
-Author URI: http://alkoweb.ru/
+Author URI: https://alkoweb.ru/
 Version: 1.0.0
 Text Domain: bro_excerpt_length
 */
