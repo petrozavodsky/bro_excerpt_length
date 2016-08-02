@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bro_Excerpt_Length\n"
+"POT-Creation-Date: 2016-08-01 18:12+0300\n"
+"PO-Revision-Date: 2016-08-01 18:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: BroDude <petrozavodsky@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+
+#: ../bro_excerpt_length.php:61
+msgid "Characters left: "
+msgstr ""
+
+#: ../bro_excerpt_length.php:62
+msgid "Limit exceeded by: "
+msgstr ""
+
+#: ../admin/options.php:21
+msgid "The number of characters in the excerpt"
+msgstr ""
