@@ -35,9 +35,10 @@ class Bro_Excerpt_Length
 
     public function current_screen()
     {
+        global $post;
         $screen = get_current_screen();
         if ($screen->parent_base = 'edit') {
-            return apply_filters('bro_excerpt_length_add', true, $screen);
+            return apply_filters('bro_excerpt_length_add', true, $screen , $post);
         }
 
         return apply_filters('bro_excerpt_length_add', true, $screen);
