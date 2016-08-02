@@ -17,11 +17,11 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 
-#: ../bro_excerpt_length.php:62
+#: ../bro_excerpt_length.php:63
 msgid "Characters left: "
 msgstr ""
 
-#: ../bro_excerpt_length.php:63
+#: ../bro_excerpt_length.php:64
 msgid "Limit exceeded by: "
 msgstr ""
 

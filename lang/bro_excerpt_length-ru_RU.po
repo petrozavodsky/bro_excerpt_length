@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Bro_Excerpt_Length\n"
-"POT-Creation-Date: 2016-08-02 16:42+0300\n"
-"PO-Revision-Date: 2016-08-02 16:43+0300\n"
+"POT-Creation-Date: 2016-08-02 17:25+0300\n"
+"PO-Revision-Date: 2016-08-02 17:25+0300\n"
 "Last-Translator: Petrozavodsky <petrozavodsky@gmail.com>\n"
 "Language-Team: BroDude <petrozavodsky@gmail.com>\n"
 "Language: ru_RU\n"
@@ -17,11 +17,11 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: public\n"
 
-#: ../bro_excerpt_length.php:62
+#: ../bro_excerpt_length.php:63
 msgid "Characters left: "
 msgstr "Осталось символов: "
 
-#: ../bro_excerpt_length.php:63
+#: ../bro_excerpt_length.php:64
 msgid "Limit exceeded by: "
 msgstr "Лимит превышен на: "
 
