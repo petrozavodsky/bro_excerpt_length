@@ -17,4 +17,9 @@ See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_
 1. Plugin options
 
 == Changelog ==
-* The first version of the plugin  - base
+
+= 1.0 =
+* Fixed filter params
+
+= 0.5 =
+* The first version of the plugin  - base.

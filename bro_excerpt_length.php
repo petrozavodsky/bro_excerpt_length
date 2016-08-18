@@ -13,7 +13,7 @@ if (!defined('ABSPATH')) exit;
 
 class Bro_Excerpt_Length
 {
-    private $version = '1.0.0';
+    private $version = '1.0.1';
     private $field_option = 'default_bro_excerpt_length';
 
     public function __construct()
@@ -42,7 +42,7 @@ class Bro_Excerpt_Length
             return apply_filters('bro_excerpt_length_add', true, $screen , $post);
         }
 
-        return apply_filters('bro_excerpt_length_add', true, $screen);
+        return apply_filters('bro_excerpt_length_add', false, $screen, $post);
     }
 
     public function add_js_css()
