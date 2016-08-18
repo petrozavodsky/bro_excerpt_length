@@ -18,8 +18,8 @@ See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * Fixed filter params
 
-= 0.5 =
+= 1.0 =
 * The first version of the plugin  - base.

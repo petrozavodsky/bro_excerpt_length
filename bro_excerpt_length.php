@@ -5,7 +5,7 @@ Plugin URI: https://github.com/petrozavodsky/bro_excerpt_length
 Description: Excerpt adds the ability to limit the number of characters on the client-side.
 Author: Vovasik ,Petrozavodsky
 Author URI: https://alkoweb.ru/
-Version: 1.0.0
+Version: 1.0.1
 Text Domain: bro_excerpt_length
 */
 
