@@ -40,7 +40,7 @@ class Bro_Excerpt_Length_Options
             id="<? echo $id ?>"
             value="<? echo esc_attr(get_option($option_name, 50)) ?>"
         />
-        <?
+        <?php
     }
 
 }
