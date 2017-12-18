@@ -21,6 +21,7 @@ class Bro_Excerpt_Length
         add_action('admin_footer', array($this, 'add_js_css'));
         add_action('plugins_loaded', array($this, 'load_textdomain'));
         $this->load_dependency();
+
     }
 
     public function load_dependency()
@@ -69,7 +70,7 @@ class Bro_Excerpt_Length
                 'bro_excerpt_length_js',
                 'bro_excerpt_length_js_variable',
                 array(
-                    'count' => get_option($this->field_option, 50),
+                    'count' => get_option($this->field_option, apply_filters('excerpt_length', 140)),
                 )
             );
 
@@ -80,6 +81,7 @@ class Bro_Excerpt_Length
                 $this->version,
                 'all'
             );
+
         }
     }
 
@@ -90,4 +92,4 @@ function Bro_Excerpt_Length_Init()
     new Bro_Excerpt_Length();
 }
 
-add_action('plugins_loaded', 'Bro_Excerpt_Length_Init', 0);
+add_action('plugins_loaded', 'Bro_Excerpt_Length_Init', 20);
