@@ -2,10 +2,10 @@
 Contributors: vovasik, petrozavodsky
 Donate link: http://alkoweb.ru
 Tags: excerpt, excerpt length, excerpt trim
-Requires at least: 4.2
+Requires at least: 4.9.6
 Tested up to: 4.5
 License: GPLv2 or later
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 
 == Description ==
 Excerpt adds the ability to limit the number of characters on the client-side.
@@ -23,3 +23,6 @@ See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_
 
 = 1.0 =
 * The first version of the plugin  - base.
+
+= 1.0.2 =
+* Code refactoring.
