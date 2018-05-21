@@ -2,8 +2,8 @@
 Contributors: vovasik, petrozavodsky
 Donate link: http://alkoweb.ru
 Tags: excerpt, excerpt length, excerpt trim
-Requires at least: 4.9.6
-Tested up to: 4.5
+Requires at least: 4.5
+Tested up to: 4.9.6
 License: GPLv2 or later
 Stable tag: 1.0.2
 
